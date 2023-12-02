@@ -1,6 +1,6 @@
-<h1 align="center">
-  <"Planet-Verdantor">
-</h1>
+<h3 align="center">
+  <img src="https://github.com/ShopnilIsCoding/Unity-Games-CSharp/assets/122216988/0e852340-346b-4502-8bda-a3a565c33cd9" alt="Planet_Verdantor">
+</h3>
 
 <h3 align="center">
   <img src="https://github.com/ShopnilIsCoding/Unity-Games-CSharp/assets/122216988/14f0f789-0d97-4d16-b9ff-034867a685bd" alt="video">
