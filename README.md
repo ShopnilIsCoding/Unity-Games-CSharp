@@ -3,7 +3,7 @@
 </h5>
 
 <p align="center">
-  <em><u>For few months i also do some work on modding GTA V using Lua scripts</u></em>
+  <em><u>For few months i also do some work on modding GTA V using Lua scripts you will find here :https://github.com/ShopnilIsCoding/GTA_V-Modding</u></em>
 </p>
 
 
