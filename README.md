@@ -1,6 +1,5 @@
-
 <h5 align="center">
-  "In This repository i will regularly upload my Unity Game Csharp scripts as I have so many passion on game developing in addition, game playing. As a gamer i played almost all reknowned title games for PC and mobile devices. For few months i also do some work on modding GTA V using Lua scripts ">
+  <b>"In This repository i will regularly upload my Unity Game Csharp scripts as I have so many passion on game developing in addition, game playing. As a gamer i played almost all reknowned title games for PC and mobile devices. For few months i also do some work on modding GTA V using Lua scripts "</b>
 </h5>
 
 
