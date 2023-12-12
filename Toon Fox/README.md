@@ -1,1 +1,1 @@
-TOON FOX
+TOON FOX Mobile Game
